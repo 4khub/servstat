@@ -113,7 +113,7 @@ export default {
   },
   data() {
     return {
-      title: "Server Status",
+      title: "DCD Server Status",
       servers: []
     };
   },
